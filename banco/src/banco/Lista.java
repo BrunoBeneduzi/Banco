@@ -15,11 +15,5 @@ public class Lista {
 	@Override
 	public String toString() {
 		return "Lista [conta=" + conta + "]";
-	}
-
-	
-
-
-	
-	
+	}	
 }
